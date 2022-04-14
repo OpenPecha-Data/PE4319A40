@@ -1,0 +1,29 @@
+id: PE4319A40
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA30015
+  instance_id: http://purl.bdrc.io/resource/IE30015
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསོ་རིག
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P264
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    ccc9dc2999b24b589b1f83e5ced800fb:
+      title: པོད ༡་གསོ་རིག
+      volume_number: 1
+      base_file: UT30015_5744_0000.txt
+      reference: http://purl.bdrc.io/resource/VLCC10A69C6AB6EB80
+      image_group: '5744'
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W30015
+  - http://purl.bdrc.io/resource/MW30015
+  ocr_software: Namsel
+created_at: '2021-12-22T11:15:40.860714'
+last_modified_at: '2021-12-22T11:15:40.860720'
